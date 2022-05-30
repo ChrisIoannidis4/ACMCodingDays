@@ -1,5 +1,3 @@
-# ACMCodingDays
-Programming Competition that me and my team won against 30 teams (2022)
+# ACM AUTh Days of Coding
 
-The competition, hosted by ACM AUTH, featured daily challenges, where each team earned points by solving them correctly and as fast as possible. 
-For each day I will be posting the Challenge description and our Python solution.
+This repository contains the problems as well as the solutions our team (consisting of me, [Theodore Ioannidis](https://github.com/TheodoreIoannidis) and [Chris Ioannidis](https://github.com/ChrisIoannidis4)) provided for the online programming competition "Days of Coding", organised by the [ACM team](https://auth.acm.org/en/home-en/) from the Aristotle University of Thessaloniki. In this competition we came first out of around 30 teams.
